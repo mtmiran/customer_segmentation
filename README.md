@@ -34,5 +34,3 @@ conda activate customer_segmentation
 conda install pandas ipykernel matplotlib seaborn scipy scikit-learn openpyxl
 ```
 
-## References
-
